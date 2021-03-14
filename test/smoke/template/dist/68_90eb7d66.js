@@ -1,0 +1,1 @@
+(self.webpackChunkmy_project=self.webpackChunkmy_project||[]).push([[68],{68:function(e,t,n){"use strict";n.r(t);var r=n(804),u=n.n(r);t.default=function(){return u().createElement("div",null,"动态 import")}}}]);
